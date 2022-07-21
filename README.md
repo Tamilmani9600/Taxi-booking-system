@@ -1,18 +1,15 @@
 # Taxi-booking-Application
-The online shopping Web application will manage the order for purchase, availability of items, and user registration.Each user has access to view their past and present orders as well as make purchases.  The admin can log in and add a new product. The Admin can also view all user purchases as well as failed orders and their reasons.
+This Online Cab Booking project deals with an online system designed for booking cabs as per the requirements of the customers at their convenience.  The current system is manual and is time-consuming. It is also cost-ineffective, and the average return is low and diminishing.
 
 # Features
 **Log in **
-•View the home page.
-• Browse all products. 
-• View product information. 
-• Add items to their shopping cart. 
-• View their cart.
-•View their order information.
-•Search for the product using the product name, category name, or reatiler.
+• login with username and password.
+• Then book a car with starting point A and drop point F.
+• And also pickup time should be above 6AM.
+• We can also see the booking details.
 
 
-Design modules for
+Design pattern for
 
 1)    Call taxi booking 
 Input 1:
